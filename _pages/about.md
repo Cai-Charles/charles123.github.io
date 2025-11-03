@@ -8,7 +8,7 @@ redirect_from:
 ---
 BIOGRAPHY
 ======
-RoboSense (2498.HK), R&D Vice President, responsible for the AI Robotics Business Group (AIR), confirming the mission and vision of the business, building an efficient R&D team of about 100 people from scratch, exploring breakthroughs and implementations of embodied intelligence technology, bringing humanoid robots into thousands of households.
+RoboSense (2498.HK), R&D Vice President, responsible for the AI Robotics Business Group (AIR), confirming the mission and vision of the business, building an efficient R&D team of about 100 people from scratch, exploring breakthroughs and implementations of embodied intelligence technology, bringing humanoid robots into thousands of households. CEO of cedarobo
 
 Won multiple robot competition championships during undergraduate studies, co-founded a robot company during graduate studies with revenue exceeding 500 million yuan, sold to over 50 countries; during this period, incubated a robot vacuum cleaner company, after spinning off, the valuation exceeded 2 billion yuan.
 
@@ -34,7 +34,7 @@ In 2017, took over the company in crisis as CEO, turned a loss of 10 million yua
 
 Education
 ======
-Master's Degree – Chinese Academy of Sciences  – 2010~2013 – Computer Application Technology (Mentor: CUHK Academician Xu Yangsheng)
+Master's Degree – Chinese Academy of Sciences & CUHK  – 2010~2013 – Computer Application Technology (Mentor: CUHK Academician Xu Yangsheng)
 
 Bachelor's degree – Huazhong University of Science and Technology – 2006~2010 – Mechanical Design, Manufacturing and Automation
 
@@ -75,24 +75,17 @@ WeChat: charlescai2030
 
 个人简历 | BIOGRAPHY
 ======
-港股上市公司速腾聚创研发副总裁，负责AI机器人事业群（AIR），确认业务的使命和愿景，0到1搭建近百人的高效研发团队，探索具身智能技术的突破和落地，将具身机器人带入千家万户。
+港股上市公司速腾聚创(2498.HK)研发副总裁，负责AI机器人事业群（AIR），确认业务的使命和愿景，0到1搭建近百人的高效研发团队，探索具身智能技术的突破和落地，将具身机器人带入千家万户。格松科技CEO
 
 本科多次获得机器人比赛的冠军，研究生期间合伙创立机器人公司，营收突破5亿元，销往50多个国家；期间，孵化一家扫地机器人公司，分拆后，估值超过20亿元。
 
 
 Experience | 工作经历
 ======
-<b>深圳市速腾聚创（港股上市）-- 2024~至今 -- 速腾聚创研发副总裁</b>
+<b>深圳市速腾聚创（港股上市）-- 2022~至今 -- 速腾聚创研发VP</b>
 - 完成0-1搭建具身智能研发团队，博士占比约30%，硕士占比近70%
 - 完成人形机器人Turing系列产品两次迭代，完成三维力传感器，直线关节，域控制器和灵巧手的2次迭代，均达到行业顶级水平；
 - 搭建端到端VLA大脑模型“McCarthy”，数据闭环平台“Shannon”，仿真训练平台“Simon”，遥操作平台“Newell”，将机器人的迭代周期由一年缩短到半年。
-
-
-<b>广州市小鹏汇天(小鹏汽车子公司) -- 2022~2024 -- 产品总监</b>
-- 说服管理层放弃一体飞行器，开拓全新的产品线-eVTOL，节省数亿元的投入。
-- 带领50多人团队完成全球最大的1200mm电动涵道开发，实现了国内0-1的突破，推力效率，推重比都达到行业顶级水平。
-- 带领100多人的团队，实现紧凑型单人飞行器的研发、测试和试飞，飞行效果达到商业化水准。
-
 
 <b>深圳乐行天下（自主创业）-- 2012~2022 -- 创始合伙人& CEO(2017-2022)</b>
 - 完成企业0-1的搭建过程，企业高峰期人数超过500人
@@ -103,7 +96,7 @@ Experience | 工作经历
 
 Education | 教育
 ======
-硕士 -- 中国科学院&香港中文大学 -- 2010~2013 -- 计算机应用技术（导师：港中文徐扬生院士）
+硕士 -- 中国科学院&CUHK -- 2010~2013 -- 计算机应用技术（导师：港中文徐扬生院士）
 
 本科 -- 华中科技大学 -- 2006~2010 -- 机械设计制造及其自动化
 
