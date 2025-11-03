@@ -14,16 +14,11 @@ Won multiple robot competition championships during undergraduate studies, co-fo
 
 Work Experience
 ======
-<b>RoboSense (2498.HK) Innovation Technology Co., LTD – 2024~Present – AIR Group Leader</b>
+<b>RoboSense (2498.HK) Innovation Technology Co., LTD – 2022~Present – R&D vice president</b>
 
 Built an end-to-end humanoid robot development team from scratch, Approximately 30% hold a Ph.D., and about 70% hold a Master's degree;
 Completed two iterations of the humanoid robot Turing series products, and two iterations of the 3D force sensor, linear joints, domain controllers, and dexterous hands, all reaching the top level in the industry;
 Built a multimodal robot brain model "McCarthy", precise data collection and synthesis platform "Shannon", robot training simulation platform "Simon", immersive teaching platform "Newell".
-
-<b>Guangzhou XPeng Huitian Technology Co. Ltd – 2022~2024 – Product Director</b>
-
-Successfully persuaded the management to abandon the integrated aircraft and develop a new product line - eVTOL, saving hundreds of millions of yuan in investment;
-Led a team of over 50 people to complete the development and testing of a single-person aircraft.
 
 <b>Shenzhen Inmotion Technology Co. Ltd – 2012~2022 – Founding Partner & R&D VP (2012-2017) & CEO (2017-2022)</b>
 
